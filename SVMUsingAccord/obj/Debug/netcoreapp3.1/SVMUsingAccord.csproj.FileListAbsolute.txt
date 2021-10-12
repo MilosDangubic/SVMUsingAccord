@@ -1,0 +1,60 @@
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.exe
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.deps.json
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.json
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.dev.json
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csprojAssemblyReference.cache
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfoInputs.cache
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfo.cs
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CopyComplete
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.dll
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+C:\Users\Vasilije\source\repos\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.genruntimeconfig.cache
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.exe
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll.config
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.deps.json
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.json
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.dev.json
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.AssemblyReference.cache
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfoInputs.cache
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfo.cs
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CoreCompileInputs.cache
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CopyComplete
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.dll
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+D:\Bilja\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.genruntimeconfig.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.exe
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll.config
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.deps.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.runtimeconfig.dev.json
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.MachineLearning.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.Core.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Math.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\bin\Debug\netcoreapp3.1\Accord.Statistics.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csprojAssemblyReference.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfoInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.AssemblyInfo.cs
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CoreCompileInputs.cache
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.csproj.CopyComplete
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.dll
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.pdb
+C:\Users\Vasilije\Desktop\Professor\Bilja\New folder\SVMUsingAccord\SVMUsingAccord\obj\Debug\netcoreapp3.1\SVMUsingAccord.genruntimeconfig.cache
